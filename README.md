@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaMatPrahlad](https://github.com/kaMatPrahlad)
 
-- 💬 Ask me about **Html, css, js, react, tailwind css**
+- 💬 Ask me about **HTML, Css, JavaScript, React, Tailwind css**
 
 - 📫 How to reach me **kamatprahlad43@gmail.com**
 
