@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/prahladkamat_" target="blank"><img src="https://img.shields.io/twitter/follow/prahladkamat_?logo=twitter&style=for-the-badge" alt="prahladkamat_" /></a> </p>
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **mongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaMatPrahlad](https://github.com/kaMatPrahlad)
 
