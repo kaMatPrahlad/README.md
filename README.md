@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prahlad kamat</h1>
-<h3 align="center">A passionate frontend developer from India 🧑🏻‍💻🧔🏻‍♂️</h3>
+<h3 align="center">A passionate frontend developer from India 🧑🏻‍💻💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamatprahlad&label=Profile%20views&color=0e75b6&style=flat" alt="kamatprahlad" /> </p>
 
 <p align="left"> <a href="https://twitter.com/prahladkamat_" target="blank"><img src="https://img.shields.io/twitter/follow/prahladkamat_?logo=twitter&style=for-the-badge" alt="prahladkamat_" /></a> </p>
 
-- 🌱 I’m currently learning **mongoDB**
+- 🌱 I’m currently learning **MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaMatPrahlad](https://github.com/kaMatPrahlad)
 
