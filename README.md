@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/prahladkamat_" target="blank"><img src="https://img.shields.io/twitter/follow/prahladkamat_?logo=twitter&style=for-the-badge" alt="prahladkamat_" /></a> </p>
 
-- 🌱 I’m currently learning **Mongodb**
-
+- 🌱 Continuously evolving learner with a passion for growth.
 - 💬 Ask me about **HTML, Css, JavaScript, React, Tailwind Css**
 
 - 📫 How to reach me **kamatprahlad43@gmail.com**
 
-- ⚡ Fun fact **I think I am funny 😂😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
