@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/prahladkamat_" target="blank"><img src="https://img.shields.io/twitter/follow/prahladkamat_?logo=twitter&style=for-the-badge" alt="prahladkamat_" /></a> </p>
 
-- 🌱 🌱 Continuously evolving learner with a passion for growth.
+- 🌱 Continuously evolving learner with a passion for growth.
 
 - 💬 Ask me about **HTML, Css, JavaScript, React, Tailwind Css**
 
