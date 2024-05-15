@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prahlad Kamat</h1>
 <h3 align="center">A passionate frontend developer from India open to work on any technology 🧑🏻‍💻💻</h3>
-<img src="![image](https://github.com/kaMatPrahlad/README.md/assets/162600820/12406e4c-27d1-46ad-bb90-ea888234f26e)
-" alt="prahladkamat_" /></a>
+<img src="https://videoplasty.com/stock-animation/chill-coding-programming-lofi-animation-11018" alt="prahladkamat_" /></a>
 
 
 
