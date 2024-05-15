@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prahlad Kamat</h1>
 <h3 align="center">A passionate frontend developer from India open to work on any technology 🧑🏻‍💻💻</h3>
-<img src="https://imgs.search.brave.com/CKI21v0kbp52ioPzOINSUh87LRkMTrN2Nv-8PN8E5Ic/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LWdpcmwtYW5pbWF0/aW9uLWZlN3Q0Z2Vq/dXJtdG9mOHYuZ2lm.gif" alt="prahladkamat_" /></a>
+<img src="![image](https://github.com/kaMatPrahlad/README.md/assets/162600820/12406e4c-27d1-46ad-bb90-ea888234f26e)
+" alt="prahladkamat_" /></a>
 
 
 
