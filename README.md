@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prahlad Kamat</h1>
 <h3 align="center">A passionate frontend developer from India open to work on any technology 🧑🏻‍💻💻</h3>
-<img src"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwifflegif.com%2Ftags%2F93-animated-gifs%3Fpage%3D164&psig=AOvVaw1k9M0TU_mHrauLT4Gk0yRe&ust=1715845616727000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDfzZGVj4YDFQAAAAAdAAAAABAp" alt="prahladkamat_" /></a>
-
 
 
 <p align="left"> <a href="https://twitter.com/prahladkamat_" target="blank"><img src="https://img.shields.io/twitter/follow/prahladkamat_?logo=twitter&style=for-the-badge" alt="prahladkamat_" /></a> </p>
