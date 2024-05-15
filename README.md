@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prahlad Kamat</h1>
 <h3 align="center">A passionate frontend developer from India open to work on any technology 🧑🏻‍💻💻</h3>
 
- <a align="center" href="/gif/code-fi-lofi-beats-to-coderelax-to-FvBVst" title="code-fi / lofi beats to code/relax to"><img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="code-fi / lofi beats to code/relax to"></a>
+ <a  href="/gif/code-fi-lofi-beats-to-coderelax-to-FvBVst" title="code-fi / lofi beats to code/relax to"><img  align="center" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="code-fi / lofi beats to code/relax to"></a>
  
 <p align="left"> <a href="https://twitter.com/prahladkamat_" target="blank"><img src="https://img.shields.io/twitter/follow/prahladkamat_?logo=twitter&style=for-the-badge" alt="prahladkamat_" /></a> </p>
 
