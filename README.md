@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prahlad Kamat</h1>
 <h3 align="center">A passionate frontend developer from India open to work on any technology 🧑🏻‍💻💻</h3>
 
-
+ <img src="https://33.media.tumblr.com/79fbf95e67f440f96edb571abb15857e/tumblr_nhvifoK2WU1qan9upo1_r4_500.gif"/>
 <p align="left"> <a href="https://twitter.com/prahladkamat_" target="blank"><img src="https://img.shields.io/twitter/follow/prahladkamat_?logo=twitter&style=for-the-badge" alt="prahladkamat_" /></a> </p>
 
 # 💫 About Me:
